@@ -1,0 +1,12 @@
+.profile {
+   height: 100%;
+   width: 100%;
+   padding: 0px;
+   margin: auto;
+}
+
+.row-bottom-margin { margin-bottom:-1px; }
+
+.grey {
+    background-color: #C4C4C4;
+}
